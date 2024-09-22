@@ -1,2 +1,2 @@
 This is Git Demo repository
-GMD
+GMD --copy right
