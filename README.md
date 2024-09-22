@@ -1,1 +1,2 @@
-# Git_Demo
+This is Git Demo repository
+GMD
